@@ -76,3 +76,29 @@
  width: 400px;
  height: 450px;
 }
+
+.my-plane{
+    display: flex;
+    padding: 20px 100px;
+    justify-content: center;
+    gap: 100px;
+    text-align: center;
+}
+.my-plane .my-plane-column{
+    padding: 10px;
+}
+.my-plane-title{
+    font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.5;
+}
+.my-plane-sub-title{
+color: #737272;
+text-align: center;
+font-family: Work Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 2;
+}
